@@ -2,7 +2,7 @@
 	     			Instances for the EDA-SSMZ
 ---------------------------------------------------------------------------------------------------
 
-The set of instances is composed of five classes, where each class has the following information:
+The set of instances is composed of five classes, where each class has the following characteristics:
 
 Class   WxH     Soil_samples
   1     6x7	   42	
